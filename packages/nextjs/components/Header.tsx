@@ -19,7 +19,18 @@ export const menuLinks: HeaderMenuLink[] = [
     label: "Home",
     href: "/",
   },
-
+  {
+    label: "Approve token",
+    href: "/approve",
+  },
+  {
+    label: "Add Liquidity",
+    href: "/addLiquidity",
+  },
+  {
+    label: "Remove Liquidity",
+    href: "/removeLiquidity",
+  },
   {
     label: "Debug Contracts",
     href: "/debug",
